@@ -1,4 +1,5 @@
 # women_techmakers_addis
+Official website of Women Techmakers Addis
 
 ## Project setup
 ```
